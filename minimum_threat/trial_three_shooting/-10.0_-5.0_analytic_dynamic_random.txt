@@ -1,0 +1,144 @@
+=== Solver Run: NN Initial Guess ===
+Initial cost guess: 1.0310
+Runtime: 60.9535 s
+Number of iterations: 145 
+Initial guess:	[ 3.8869 -0.1372 -0.142 ]
+Solution (ans):	[ 4.489  -0.0962 -0.1025]
+Residual (integration(ans)):	[-0.0034 -0.0007 -0.0825]
+Final state:	[-3.3678e-03 -6.6055e-04 -3.4706e-02 -1.0312e-01  9.6234e-01]
+
+ ~~~~~~~~~~~~~~~~~~~ 
+
+=== Solver Run: NN Initial Guess ===
+Initial cost guess: 1.0291
+Runtime: 62.8618 s
+Number of iterations: 149 
+Initial guess:	[ 3.891  -0.1351 -0.139 ]
+Solution (ans):	[ 4.4891 -0.0962 -0.1025]
+Residual (integration(ans)):	[-0.0034 -0.0007 -0.0825]
+Final state:	[-3.3680e-03 -6.6065e-04 -3.4702e-02 -1.0312e-01  9.6233e-01]
+
+ ~~~~~~~~~~~~~~~~~~~ 
+
+=== Solver Run: NN Initial Guess ===
+Initial cost guess: 1.0284
+Runtime: 72.5385 s
+Number of iterations: 180 
+Initial guess:	[ 3.8983 -0.1332 -0.1378]
+Solution (ans):	[ 4.4893 -0.0962 -0.1025]
+Residual (integration(ans)):	[-0.0034 -0.0007 -0.0825]
+Final state:	[-3.3658e-03 -6.6504e-04 -3.4696e-02 -1.0312e-01  9.6232e-01]
+
+ ~~~~~~~~~~~~~~~~~~~ 
+
+=== Solver Run: NN Initial Guess ===
+Initial cost guess: 1.0281
+Runtime: 64.5585 s
+Number of iterations: 159 
+Initial guess:	[ 3.9028 -0.1316 -0.1361]
+Solution (ans):	[ 4.4893 -0.0962 -0.1025]
+Residual (integration(ans)):	[-0.0034 -0.0007 -0.0825]
+Final state:	[-3.3664e-03 -6.6444e-04 -3.4693e-02 -1.0312e-01  9.6231e-01]
+
+ ~~~~~~~~~~~~~~~~~~~ 
+
+=== Solver Run: Random Initial Guess ===
+Runtime: 67.4904 s
+Number of iterations: 172 
+Initial guess:	[ 4.2611  0.3327 -0.8877]
+Solution (ans):	[-4.4892 -0.0962 -0.1025]
+Residual (integration(ans)):	[-0.0034 -0.0007 -0.0825]
+Final state:	[-3.3680e-03 -6.6115e-04 -3.4699e-02 -1.0312e-01  9.6232e-01]
+
+ ~~~~~~~~~~~~~~~~~~~ 
+
+=== Solver Run: Random Initial Guess ===
+Runtime: 72.7630 s
+Number of iterations: 186 
+Initial guess:	[ 5.8717 -0.5866 -0.45  ]
+Solution (ans):	[ 4.4891 -0.0962 -0.1025]
+Residual (integration(ans)):	[-0.0034 -0.0007 -0.0825]
+Final state:	[-3.3679e-03 -6.6087e-04 -3.4702e-02 -1.0312e-01  9.6233e-01]
+
+ ~~~~~~~~~~~~~~~~~~~ 
+
+=== Solver Run: Random Initial Guess ===
+Runtime: 73.4691 s
+Number of iterations: 190 
+Initial guess:	[3.9864 0.2369 0.7256]
+Solution (ans):	[-4.4892 -0.0962 -0.1025]
+Residual (integration(ans)):	[-0.0034 -0.0007 -0.0825]
+Final state:	[-3.3680e-03 -6.6103e-04 -3.4699e-02 -1.0312e-01  9.6232e-01]
+
+ ~~~~~~~~~~~~~~~~~~~ 
+
+=== Solver Run: Random Initial Guess ===
+Runtime: 30.4673 s
+Number of iterations: 59 
+Initial guess:	[ 6.1622 -0.8608  0.2803]
+Solution (ans):	[ 9.9834 -0.1424  0.1699]
+Residual (integration(ans)):	[ 1.7343e-10 -3.0845e-09 -1.9394e-11]
+Final state:	[-6.6618e-07 -4.0429e-06  8.2223e-03 -4.6770e-03  4.5451e+00]
+
+ ~~~~~~~~~~~~~~~~~~~ 
+
+=== Solver Run: Random Initial Guess ===
+Runtime: 28.6657 s
+Number of iterations: 49 
+Initial guess:	[ 3.7648 -0.0372  0.5059]
+Solution (ans):	[-5.8336  0.2702  0.0289]
+Residual (integration(ans)):	[-6.6955 -3.3899  0.1126]
+Final state:	[-6.6955 -3.3899 -0.0174  0.0343  5.2461]
+
+ ~~~~~~~~~~~~~~~~~~~ 
+
+=== Solver Run: Random Initial Guess ===
+Runtime: 66.9101 s
+Number of iterations: 170 
+Initial guess:	[5.6192 0.7157 0.3071]
+Solution (ans):	[ 4.489  -0.0962 -0.1025]
+Residual (integration(ans)):	[-0.0034 -0.0007 -0.0825]
+Final state:	[-3.3681e-03 -6.6003e-04 -3.4706e-02 -1.0312e-01  9.6234e-01]
+
+ ~~~~~~~~~~~~~~~~~~~ 
+
+=== Solver Run: Random Initial Guess ===
+Runtime: 68.3535 s
+Number of iterations: 176 
+Initial guess:	[ 4.5778 -0.74    0.1427]
+Solution (ans):	[ 4.4891 -0.0962 -0.1025]
+Residual (integration(ans)):	[-0.0034 -0.0007 -0.0825]
+Final state:	[-3.3681e-03 -6.6034e-04 -3.4704e-02 -1.0312e-01  9.6233e-01]
+
+ ~~~~~~~~~~~~~~~~~~~ 
+
+=== Solver Run: Random Initial Guess ===
+Runtime: 74.9131 s
+Number of iterations: 188 
+Initial guess:	[ 7.1385  0.912  -0.7659]
+Solution (ans):	[-4.489  -0.0962 -0.1025]
+Residual (integration(ans)):	[-0.0034 -0.0007 -0.0825]
+Final state:	[-3.3680e-03 -6.6034e-04 -3.4705e-02 -1.0312e-01  9.6234e-01]
+
+ ~~~~~~~~~~~~~~~~~~~ 
+
+=== Solver Run: Random Initial Guess ===
+Runtime: 125.5482 s
+Number of iterations: 200 
+Initial guess:	[ 6.5441 -0.1067  0.0521]
+Solution (ans):	[ 9.3027 -0.102   0.1485]
+Residual (integration(ans)):	[-0.0015 -0.0025 -0.0315]
+Final state:	[-1.5432e-03 -2.5383e-03  8.7527e-03 -7.4899e-03  4.7306e+00]
+
+ ~~~~~~~~~~~~~~~~~~~ 
+
+=== Solver Run: Random Initial Guess ===
+Runtime: 73.8328 s
+Number of iterations: 192 
+Initial guess:	[ 6.8737  0.7418 -0.7278]
+Solution (ans):	[-4.4892 -0.0962 -0.1025]
+Residual (integration(ans)):	[-0.0034 -0.0007 -0.0825]
+Final state:	[-3.3681e-03 -6.6101e-04 -3.4699e-02 -1.0312e-01  9.6232e-01]
+
+ ~~~~~~~~~~~~~~~~~~~ 
+
